@@ -1,5 +1,10 @@
 #include <iostream>
 
+// Solution for Monte Carlo Localization (MCL) in C++ 
+// Udacity , Robotics Software Engineer Nano Degree
+// Chapter 5 - Resampling 
+
+
 using namespace std;
 
 double w[] = { 0.6, 1.2, 2.4, 0.6, 1.2 };//You can also change this to a vector
