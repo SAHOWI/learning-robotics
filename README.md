@@ -12,3 +12,13 @@ flowchart TD;
   C ----> E[Test It];
   D ----> E[Test It];
 ```
+
+Another one copied from github directly:
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
