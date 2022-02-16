@@ -13,12 +13,4 @@ Her you should see the Diagram  drawn with mermaid!
   D ----> E[Test It];
 ```
 
-Another one copied from github directly:
 
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
