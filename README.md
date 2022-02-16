@@ -11,8 +11,9 @@ Her you should see the Diagram  drawn with mermaid!
   B -- No --> D[Upload it to the Simulator]
   C ----> E[Test It];
   D ----> E[Test It] --> F;
-  F[Improve it]:
+  F[Improve it];
   F --> B;
+  
 ```
 
 
